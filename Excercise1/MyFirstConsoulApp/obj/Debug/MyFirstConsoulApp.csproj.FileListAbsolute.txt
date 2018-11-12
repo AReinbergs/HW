@@ -1,0 +1,14 @@
+C:\Users\s84671\source\repos\MyFirstConsoulApp\MyFirstConsoulApp\bin\Debug\MyFirstConsoulApp.exe.config
+C:\Users\s84671\source\repos\MyFirstConsoulApp\MyFirstConsoulApp\bin\Debug\MyFirstConsoulApp.exe
+C:\Users\s84671\source\repos\MyFirstConsoulApp\MyFirstConsoulApp\bin\Debug\MyFirstConsoulApp.pdb
+C:\Users\s84671\source\repos\MyFirstConsoulApp\MyFirstConsoulApp\obj\Debug\MyFirstConsoulApp.csprojAssemblyReference.cache
+C:\Users\s84671\source\repos\MyFirstConsoulApp\MyFirstConsoulApp\obj\Debug\MyFirstConsoulApp.csproj.CoreCompileInputs.cache
+C:\Users\s84671\source\repos\MyFirstConsoulApp\MyFirstConsoulApp\obj\Debug\MyFirstConsoulApp.exe
+C:\Users\s84671\source\repos\MyFirstConsoulApp\MyFirstConsoulApp\obj\Debug\MyFirstConsoulApp.pdb
+C:\Users\s84671\source\repos\Excercise1\MyFirstConsoulApp\bin\Debug\MyFirstConsoulApp.exe.config
+C:\Users\s84671\source\repos\Excercise1\MyFirstConsoulApp\bin\Debug\MyFirstConsoulApp.exe
+C:\Users\s84671\source\repos\Excercise1\MyFirstConsoulApp\bin\Debug\MyFirstConsoulApp.pdb
+C:\Users\s84671\source\repos\Excercise1\MyFirstConsoulApp\obj\Debug\MyFirstConsoulApp.csprojAssemblyReference.cache
+C:\Users\s84671\source\repos\Excercise1\MyFirstConsoulApp\obj\Debug\MyFirstConsoulApp.csproj.CoreCompileInputs.cache
+C:\Users\s84671\source\repos\Excercise1\MyFirstConsoulApp\obj\Debug\MyFirstConsoulApp.exe
+C:\Users\s84671\source\repos\Excercise1\MyFirstConsoulApp\obj\Debug\MyFirstConsoulApp.pdb
